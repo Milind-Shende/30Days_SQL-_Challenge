@@ -1,7 +1,7 @@
 create database Query1;
 use Query1;
 
--- Amazon Interview Practice 21/02/2024
+-- Amazon Interview Practice 23/03/2024
 
 
 /* 1. You have two tables: Product and Supplier.
